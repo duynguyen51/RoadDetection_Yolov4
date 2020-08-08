@@ -1,0 +1,6 @@
+numpy
+flask
+libopencv-dev
+python3-opencv
+pillow
+flask_cors

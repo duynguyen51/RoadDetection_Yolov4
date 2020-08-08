@@ -1,0 +1,3 @@
+__pycache__/
+*.py[cod]
+custom-yolov4-detector_final_1.weights

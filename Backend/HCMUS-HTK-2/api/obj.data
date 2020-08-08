@@ -1,0 +1,5 @@
+classes = 4
+train = dete/train.txt
+valid = dete/valid.txt
+names = data/plate.names
+backup = dete/backup/
